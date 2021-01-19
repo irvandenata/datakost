@@ -1,0 +1,76 @@
+{
+ "data":[
+  {
+   "id":1,
+   "name": "jasminKost",
+   "cost":200000,
+   "rating":0,
+   "option":"bulan",
+   "location":"sepakat 2",
+   "type": "kost",
+   "description":"kosnya mantap dengan ac 10",
+   "dimention":"20x20",
+   "fasilities":
+   [
+    "ac","lemari","wc"
+   ],
+   "imageUrl":"iejfiej",
+   "category":"putra"
+
+  },
+  {
+   "id":2,
+   "name": "jasminKost",
+   "cost":200000,
+   "rating":0,
+   "option":"bulan",
+   "location":"sepakat 2",
+   "type": "kost",
+   "description":"kosnya mantap dengan ac 10",
+   "dimention":"20x20",
+   "fasilities":
+   [
+    "ac","lemari","wc"
+   ],
+   "imageUrl":"iejfiej",
+   "category":"putra"
+
+  },
+  {
+   "id":3,
+   "name": "jasminKost",
+   "cost":200000,
+   "rating":0,
+   "option":"bulan",
+   "location":"sepakat 2",
+   "type": "kost",
+   "description":"kosnya mantap dengan ac 10",
+   "dimention":"20x20",
+   "fasilities":
+   [
+    "ac","lemari","wc"
+   ],
+   "imageUrl":"iejfiej",
+   "category":"putra"
+
+  },
+  {
+   "id":4,
+   "name": "jasminKost",
+   "cost":200000,
+   "rating":0,
+   "option":"bulan",
+   "location":"sepakat 2",
+   "type": "kost",
+   "description":"kosnya mantap dengan ac 10",
+   "dimention":"20x20",
+   "fasilities":
+   [
+    "ac","lemari","wc"
+   ],
+   "imageUrl":"iejfiej",
+   "category":"putra"
+
+  }
+ ]
+}
