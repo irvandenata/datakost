@@ -8,7 +8,7 @@
    "option":"tahun",
    "location": "Jl. Sepakat 2, Blok C",
    "type":"kost",
-   "total kost":"20"
+   "total_kost":"20",
    "description" :"bila ada teman perempuan yang menginap bayar Rp20.000/malam dan dilarang membawa laki-laki ke dalam kost",
    "dimention":"20x20",
    "contact":"+628 5249 7769 99",
@@ -28,7 +28,7 @@
    "option":"tahun",
    "location":"Jl. Sepakat 2, Blok C",
    "type":"kost",
-   "total kost":"20"
+   "total_kost":"20",
    "description":"bila ada teman perempuan yang menginap bayar Rp20.000/malam dan dilarang membawa laki-laki ke dalam kost",
    "dimention":"20x20",
    "contact":"+628 5249 7769 99",
@@ -48,7 +48,7 @@
    "option":"tahun",
    "location":"Jl. Sepakat 2, blok H",
    "type":"kost",
-   "total kost":"28"
+   "total_kost":"28",
    "description":"Penambahan Biaya Rp5.000 hingga Rp10.000/Elektronik. Kost tutup jam 23.00 dan laki-laki dilarang masuk. Teman perempuan yang menginap >2 hari akan dikenakan denda",
    "dimention":"20x20",
    "contact":"+628 5750 7013 49",
@@ -68,7 +68,7 @@
    "option":"tahun",
    "location":"Jl. Sepakat 2, blok C",
    "type":"kost",
-   "total kost":"19"
+   "total_kost":"19",
    "description":"PDAM & Air sistem patungan, Jam Kost Bebas",
    "dimention":"2,5x2,5",
    "contact":"+628 5753 3112 34",
@@ -88,7 +88,7 @@
    "option":"tahun",
    "location":"Jl. Sepakat 2, blok H, no 80",
    "type":"kost",
-   "total kost":"31"
+   "total_kost":"31",
    "description":"PDAM & Air sistem patungan. Jam Kost Bebas",
    "dimention":"2,5x2,5",
    "contact":"+628 5753 3112 34",
@@ -107,7 +107,7 @@
    "option":"tahun",
    "location":"Jl. Sepakat 2, blok D, no 88",
    "type":"kost",
-   "total kost":"12"
+   "total_kost":"12",
    "description":"PDAM & Air sistem patungan. Jam Kost Bebas",
    "dimention":"2x3",
    "contact":"+628 5252 6956 3",
@@ -126,7 +126,7 @@
    "option":"tahun",
    "location":"Jl. Sepakat 2, blok D, no 88",
    "type":"kost",
-   "total kost":"14"
+   "total_kost":"14",
    "description":"PDAM & Air sistem patungan. Akses 24 jam",
    "dimention":"2x3",
    "contact":"+628 5252 6956 3",
@@ -145,7 +145,7 @@
    "option":"tahun",
    "location":"Jl. Sepakat 2, blok D, no 88",
    "type":"kost",
-   "total kost":"4"
+   "total_kost":"4",
    "description":"PDAM & Air sistem patungan. Akses 24 jam",
    "dimention":"2x3",
    "contact":"+628 5252 6956 3",
@@ -164,7 +164,7 @@
    "option":"bulan",
    "location":"Jl. Sepakat 2, Komp Grand Sepakat Residance no A11",
    "type":"kost",
-   "total kost":"0"
+   "total_kost":"0",
    "description":"Akses 24 jam",
    "dimention":"0",
    "contact":"+628 1392 3390 40",
@@ -183,7 +183,7 @@
    "option":"bulan",
    "location":"Jl. parit haji hussin 2 (paris 2)",
    "type":"kost",
-   "total kost":"0"
+   "total_kost":"0",
    "description":"Free Listrik jika hanya membawa kipas dan Magiccom. Setrika bebas di dapur",
    "dimention":"0",
    "contact":"+628 5252 0522 99",
@@ -202,7 +202,7 @@
    "option":"bulan",
    "location":"Jl. Sepakat 2. Komplek Taman Sepakat no A6",
    "type":"kost",
-   "total kost":"0"
+   "total_kost":"0",
    "description":"Free Listrik jika hanya membawa kipas dan Magiccom. Setrika bebas di dapur",
    "dimention":"0",
    "contact":"+628 5252 0522 99",
