@@ -2,75 +2,159 @@
  "data":[
   {
    "id":1,
-   "name": "jasminKost",
-   "cost":200000,
+   "name":"sepakat Raya",
+   "cost":5000000,
    "rating":0,
-   "option":"bulan",
-   "location":"sepakat 2",
-   "type": "kost",
-   "description":"kosnya mantap dengan ac 10",
+   "option":"tahun",
+   "location":"Jl. Sepakat 2, Blok C",
+   "type":"kost",
+   "total kost":"20"
+   "description":"bila ada teman perempuan yang menginap bayar Rp20.000/malam dan dilarang membawa laki-laki ke dalam kost",
    "dimention":"20x20",
+   "contact":"+628 5249 7769 99",
    "fasilities":
    [
-    "ac","lemari","wc"
+    "wifi","lemari","wc","pdam","kasur","bantal","pembersih"
    ],
    "imageUrl":"iejfiej",
-   "category":"putra"
+   "category":"putri"
 
   },
   {
    "id":2,
-   "name": "jasminKost",
-   "cost":200000,
+   "name":"sepakat Raya",
+   "cost":4500000,
    "rating":0,
-   "option":"bulan",
-   "location":"sepakat 2",
-   "type": "kost",
-   "description":"kosnya mantap dengan ac 10",
+   "option":"tahun",
+   "location":"Jl. Sepakat 2, Blok C",
+   "type":"kost",
+   "total kost":"20"
+   "description":"bila ada teman perempuan yang menginap bayar Rp20.000/malam dan dilarang membawa laki-laki ke dalam kost",
    "dimention":"20x20",
+   "contact":"+628 5249 7769 99",
    "fasilities":
    [
-    "ac","lemari","wc"
+    "wifi","lemari","wc","pdam","kasur","bantal","pembersih"
    ],
    "imageUrl":"iejfiej",
-   "category":"putra"
+   "category":"putri"
 
   },
   {
    "id":3,
-   "name": "jasminKost",
-   "cost":200000,
+   "name":"kost hijau",
+   "cost":3000000,
    "rating":0,
-   "option":"bulan",
-   "location":"sepakat 2",
-   "type": "kost",
-   "description":"kosnya mantap dengan ac 10",
+   "option":"tahun",
+   "location":"Jl. Sepakat 2, blok H",
+   "type":"kost",
+   "total kost":"28"
+   "description":"Penambahan Biaya Rp5.000 hingga Rp10.000/Elektronik. Kost tutup jam 23.00 dan laki-laki dilarang masuk. Teman perempuan yang menginap >2 hari akan dikenakan denda",
    "dimention":"20x20",
+   "contact":"+628 5750 7013 49",
    "fasilities":
    [
-    "ac","lemari","wc"
+    "pdam","listrik"
+   ],
+   "imageUrl":"iejfiej",
+   "category":"putri"
+
+  },
+  {
+   "id":4,
+   "name":"Al-Muslim I",
+   "cost":3000000,
+   "rating":0,
+   "option":"tahun",
+   "location":"Jl. Sepakat 2, blok C",
+   "type":"kost",
+   "total kost":"19"
+   "description":"PDAM & Air sistem patungan, Jam Kost Bebas",
+   "dimention":"2,5x2,5",
+   "contact":"+628 5753 3112 34",
+   "fasilities":
+   [
+    "pdam","air","dapur"
    ],
    "imageUrl":"iejfiej",
    "category":"putra"
 
   },
   {
-   "id":4,
-   "name": "jasminKost",
-   "cost":200000,
+   "id":5,
+   "name":"Al-Muslim II",
+   "cost":3000000,
    "rating":0,
-   "option":"bulan",
-   "location":"sepakat 2",
-   "type": "kost",
-   "description":"kosnya mantap dengan ac 10",
-   "dimention":"20x20",
+   "option":"tahun",
+   "location":"Jl. Sepakat 2, blok H, no 80",
+   "type":"kost",
+   "total kost":"31"
+   "description":"PDAM & Air sistem patungan. Jam Kost Bebas",
+   "dimention":"2,5x2,5",
+   "contact":"+628 5753 3112 34",
    "fasilities":
    [
-    "ac","lemari","wc"
+    "pdam","listrik","dapur"
    ],
    "imageUrl":"iejfiej",
    "category":"putra"
-
-  }
+  },
+  {
+   "id":6,
+   "name":"D88",
+   "cost":3500000,
+   "rating":0,
+   "option":"tahun",
+   "location":"Jl. Sepakat 2, blok D, no 88",
+   "type":"kost",
+   "total kost":"26"
+   "description":"PDAM & Air sistem patungan. Jam Kost Bebas",
+   "dimention":"2x3",
+   "contact":"+628 5252 6956 3",
+   "fasilities":
+   [
+    "pdam","air galon","dapur","listrik","dispenser","kompor","gas"
+   ],
+   "imageUrl":"iejfiej",
+   "category":"putra"
+  },
+  {
+   "id":7,
+   "name":"D88",
+   "cost":2500000,
+   "rating":0,
+   "option":"tahun",
+   "location":"Jl. Sepakat 2, blok D, no 88",
+   "type":"kost",
+   "total kost":"4"
+   "description":"PDAM & Air sistem patungan. Jam Kost Bebas",
+   "dimention":"2x3",
+   "contact":"+628 5252 6956 3",
+   "fasilities":
+   [
+    "pdam","air galon","dapur","listrik","dispenser","kompor","gas"
+   ],
+   "imageUrl":"iejfiej",
+   "category":"putra"
+  },
+  {
+   "id":8,
+   "name":"D88",
+   "cost":3500000,
+   "rating":0,
+   "option":"tahun",
+   "location":"Jl. Sepakat 2, blok D, no 88",
+   "type":"kost",
+   "total kost":"30"
+   "description":"PDAM & Air sistem patungan. Jam Kost Bebas",
+   "dimention":"2x3",
+   "contact":"+628 5252 6956 3",
+   "fasilities":
+   [
+    "pdam","air galon","dapur","listrik","dispenser","kompor","gas"
+   ],
+   "imageUrl":"iejfiej",
+   "category":"putra"
+  },
  ]
 }
